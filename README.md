@@ -37,3 +37,16 @@ The app helps users search for books by title and view details such as author, p
 ```bash
 git clone https://github.com/AnupriyaCH/book-finder.git
 cd book-finder
+
+Run the backend:
+
+cd  book-finder
+cd backend
+npm install
+npm start
+
+Then open an new terminal, Run the frontend:
+
+cd frontend
+npm install
+npm run dev
