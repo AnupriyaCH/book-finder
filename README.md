@@ -26,6 +26,11 @@ The app helps users search for books by title and view details such as author, p
 
 ---
 
+## Screenshot
+
+![App Screenshot](./Screenshot1.png)
+![App Screenshot](./Screenshot2.png)
+![App Screenshot](./Screenshot3.png)
 ## ⚙️ How to Run Locally
 
 ### 1️⃣ Clone the repository
