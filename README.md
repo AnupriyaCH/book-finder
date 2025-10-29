@@ -45,8 +45,13 @@ cd backend
 npm install
 npm start
 
+Backend will start on http://localhost:5000
+
+
 Then open an new terminal, Run the frontend:
 
 cd frontend
 npm install
 npm run dev
+
+Frontend will start on http://localhost:5173
